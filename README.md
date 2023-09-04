@@ -1,2 +1,2 @@
 # DataScience_deteccao_fraude
-Projeto sobre detecção de fraude em cartões de crédito.
+Neste projeto, foi realizada uma análise de dados e foi criado um modelo de *Machine Learning* chamado "Regressão Logística" para detectar fraudes em cartões de crédito.
